@@ -12,4 +12,7 @@ node_modules
 .Trashes
 
 # Hugo
-public
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
