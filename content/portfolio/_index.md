@@ -4,7 +4,7 @@ description = "See the projects that I have been involved in while in employment
 date = 2023-11-14T15:07:54+03:00
 
 showLikes = false
-showViews = true
+showViews = false
 layoutBackgroundHeaderSpace = false
 cardView = true
 cardViewScreenWidth = false
